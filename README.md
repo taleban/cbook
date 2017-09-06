@@ -15,6 +15,5 @@
 <br>
 <b>pthread: </b>https://computing.llnl.gov/tutorials/pthreads/
 <br>
-<h6>For Gcc compiling I use this command:</h6><code>gcc -o test cbook.c -lcurl -ljson-c -lpthread</code>
-<br>
+<h6>For Gcc compiling I use this command:<code>gcc -o test cbook.c -lcurl -ljson-c -lpthread</code></h6>
 where 'test' is the name of the executable
